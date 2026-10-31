@@ -1,18 +1,51 @@
-# 💫 About Me:
-Hi, I'm a 14 y.o. programmer! My name is Sarah Lina Esther, I know JS and Python. eng/rus/heb
+💫 About Me
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=D86DA8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sarah+Lina+Esther;14+y.o.+beginner+programmer;JavaScript+%7C+Python;English+%7C+Russian+%7C+Hebrew" alt="Typing SVG" />
+</p>
+<p align="center">
+  A beginner programmer passionate about learning, creating, and turning ideas into code.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sarahlinaesther) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarahlinaesther@gmail.com) 
+⸻
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=narkoshko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=narkoshko&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=narkoshko&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🌐 Socials
 
----
-[![](https://komarev.com/ghpvc/?username=narkoshko&icon=7&color=10)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://instagram.com/sarahlinaesther">
+    <img src="https://img.shields.io/badge/Instagram-@sarahlinaesther-D86DA8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:sarahlinaesther@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20me-9168CC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⸻
+
+💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-D86DA8?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-9168CC?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+⸻
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=narkoshko&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=narkoshko&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=narkoshko&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
+
+⸻
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=narkoshko&icon=7&color=D86DA8" alt="Profile views" />
+</p>
+<p align="center">
+  <i>♡ learning, creating, and growing one line at a time ♡</i>
+</p>
