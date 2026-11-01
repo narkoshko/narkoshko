@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=18&duration=3000&pause=1000&color=D86DA8&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Sarah+Lina+Esther;14+y.o.+beginner+programmer;JavaScript+%7C+Python;English+%7C+Russian+%7C+Hebrew" alt="Typing SVG" />
 </p>
-<p align="center">
-  A beginner programmer.
-</p>
 
 ⸻
 
